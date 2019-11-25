@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/mmgen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mmgen.github.io
+  * I am mmgen (https://keybase.io/mmgen) on keybase.
+  * I have a public key with fingerprint 5C84 CB45 AEE2 250F 31A6  A570 3F8B 1861 E32B 7DA2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "011161e9b7dc973d05f23451aa383632f4d1f0908fae62ca783652a4315120b869050a",
+      "fingerprint": "5c84cb45aee2250f31a6a5703f8b1861e32b7da2",
+      "host": "keybase.io",
+      "key_id": "3f8b1861e32b7da2",
+      "kid": "011161e9b7dc973d05f23451aa383632f4d1f0908fae62ca783652a4315120b869050a",
+      "uid": "3b2878f6e38c71096d86499280388119",
+      "username": "mmgen"
+    },
+    "service": {
+      "hostname": "mmgen.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1574678040,
+  "expire_in": 157680000,
+  "prev": "1fef861a2fbdbe9fe14d3b9c50cb6bcea213df1b04b4c79982ed574197780a99",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUj1rFEEYXi8JxICYCAYbC0e08TjmY3d25kBSBP0HQsCPY2b3nb0hud11d+9i
+jFdpUFBUUPwBgmJ1iKRLYSOkSGepYJGk0D8gVursxYCFpdMM87zP+zzP+zJPj014
+03MLD0+pvQvDl0d2vmnv+ufR3XWks3gNtdfRMowvWImhrDrLNkZthAkhnIDUYRzJ
+kMU4MJT5AVGKCcYZNX5MDJZYGAWcRip0aECVz0hAKNaCSxxghZrI2DSBIi9sWjnZ
+IBJ+pP1AAVAaYMOI4ioIMTNCE+EMGXWOirrGblbWHS6cViW0bOYw9+iM4/2D/59z
+9w98NBWhMByYiEKCJY8F96WkAjMhCJE1sYQiVT1w7F4vgRQNm8hBAxtBvdV6jL/L
+rcRW3b4+mCcvsiqLshVX7FZVXrbr5motr9mroDt/dDraprHbo+sYQFHaLEVt4phR
+ZWthEoQ+DwX2cRPBrdwW0LHpGOYCu1P7wMBJEgPGLW1JUaNjDdIA8WOmZRTgSHMd
+gaKExYZo7Gs/CqUUFGInTmTo5JWsxy3hZpqhtu9yqsRpljZJVdUvAA1nHvQnvblp
+7/T8mclr93YujXbPHSevX+WHX2+qUf87b+bo7CHSO+n9Kt9t88cTF79fnv/0YuPG
+2Y3dZGHrR+PEh2fbU+bN1+f3vZ8t/WVx02s++nh19snt82/339/ZX7WbS1vB6Apf
+1I293w==
+=bxzG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mmgen
+
+==================================================================
