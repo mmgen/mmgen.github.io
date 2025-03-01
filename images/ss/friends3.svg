@@ -1,4 +1,12 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="61.556ex" height="8.990ex" style="vertical-align: -4.087ex;" viewBox="-2000.0 -3015.9 37860.7 5529.4" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<style>
+	path {
+		fill: black;
+	}
+	@media (prefers-color-scheme: dark) {
+		path { fill: white; }
+	}
+</style>
 <title id="MathJax-SVG-1-Title">\begin{array}{ll}
 share_{me}    &amp; = master_{1} \\
 share_{bob}   &amp; = \operatorname {HMAC-SHA256}(seed,\text{‘friends:share2:of4:master1’}) \\

@@ -1,4 +1,12 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="10.602ex" height="1.640ex" style="vertical-align: -0.353ex;" viewBox="-2000.0 -791.3 6520.5 1008.6" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<style>
+	path {
+		fill: black;
+	}
+	@media (prefers-color-scheme: dark) {
+		path { fill: white; }
+	}
+</style>
 <title id="MathJax-SVG-1-Title">P \oplus r = C
 </title>
 <defs aria-hidden="true">

@@ -1,4 +1,12 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="29.188ex" height="1.756ex" style="vertical-align: -0.470ex;" viewBox="-2000.0 -791.3 17958.0 1080.4" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<style>
+	path {
+		fill: black;
+	}
+	@media (prefers-color-scheme: dark) {
+		path { fill: white; }
+	}
+</style>
 <title id="MathJax-SVG-1-Title">share_{1} \oplus share_{2} \dotsb \oplus share_{n} = seed
 </title>
 <defs aria-hidden="true">

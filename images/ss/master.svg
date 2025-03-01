@@ -1,4 +1,12 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="39.964ex" height="4.323ex" style="vertical-align: -1.753ex;" viewBox="-2000.0 -1580.7 24582.3 2659.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<style>
+	path {
+		fill: black;
+	}
+	@media (prefers-color-scheme: dark) {
+		path { fill: white; }
+	}
+</style>
 <title id="MathJax-SVG-1-Title">\begin{array}{l}
 master_{1} = \operatorname {HMAC-SHA256}(seed,\text{‘master1’}), \\
 \quad master_{2} = \operatorname {HMAC-SHA256}(seed,\text{‘master2’}), \enspace \dotsb

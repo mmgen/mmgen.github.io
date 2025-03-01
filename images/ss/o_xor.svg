@@ -1,4 +1,12 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.0ex" height="1.0ex" style="vertical-align: -0.353ex;" viewBox="60 -580 670 670" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<style>
+	path {
+		fill: black;
+	}
+	@media (prefers-color-scheme: dark) {
+		path { fill: white; }
+	}
+</style>
 <!--    width="1.266ex" height="1.523ex" viewBox="0 -900 778.5 936.9" -->
 <title id="MathJax-SVG-1-Title">\oplus</title>
 <defs aria-hidden="true">
