@@ -72,5 +72,29 @@ if __name__ == '__main__':
 	print('Recovered secret:', res[0])
 ```
 
+Output with worked example data:
+
+```text
+Threshold: 4
+Secret: 4
+Shares: [(1, 14), (2, 58), (5, 694), (7, 1838)]
+Recovered secret: 4
+```
+
+Output with alternate data:
+
+```text
+Threshold: 7
+Secret: 1432059
+Shares: [(13371, 477168056575161181455940409240886),
+ (4, 343030668615),
+ (1, 85941426),
+ (2, 5377193509),
+ (6, 3903470344641),
+ (7, 9840321886254),
+ (889, 41219620449806768439288930)]
+Recovered secret: 1432059
+```
+
 [p]: images/shamir/parabolas.webp
 [e]: images/shamir/example.png
