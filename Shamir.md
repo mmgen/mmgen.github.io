@@ -1,8 +1,8 @@
 ![points on parabolas][p]
 
-## Shamir’s Secret Sharing Scheme
+# Shamir’s Secret Sharing Scheme
 
-#### A worked example and ultra-compact implementation in 21 lines of Python code
+### A worked example and ultra-compact implementation in 21 lines of Python code
 
 ![Shamir’s Secret Sharing Scheme: a worked example][e]
 
