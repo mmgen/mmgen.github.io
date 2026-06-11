@@ -10,7 +10,7 @@
 
 The code started out by following the worked example and ended up as a generalized solution.
 
-Thus the implementation is self-contained and relies on nothing but basic arithmetic: note the absence of Legrange interpolations and Python module imports.
+Thus the implementation is self-contained and relies on nothing but basic arithmetic: note the absence of Lagrange interpolations and Python module imports.
 
 ```python
 #!/usr/bin/env python
