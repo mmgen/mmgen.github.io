@@ -6,11 +6,13 @@
 
 ![Shamir’s Secret Sharing Scheme: a worked example][e]
 
-*Typesetting by LibreOffice Math*
+*Typesetting by TeX*
 
-The code started out by following the worked example and ended up as a generalized solution.
+The code started out by following the worked example and ended up as a
+generalized solution.
 
-Thus the implementation is self-contained and relies on nothing but basic arithmetic: note the absence of Lagrange interpolations and Python module imports.
+The resulting implementation is self-contained and relies on nothing but
+basic arithmetic.  Also note the absence of Python module imports.
 
 ```python
 #!/usr/bin/env python
@@ -97,4 +99,4 @@ Recovered secret: 1432059
 ```
 
 [p]: images/shamir/parabolas.webp
-[e]: images/shamir/example.png
+[e]: images/shamir/example.svg
