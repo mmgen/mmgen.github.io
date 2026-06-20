@@ -8,11 +8,10 @@
 
 *Typesetting by TeX*
 
-The code started out by following the worked example and ended up as a
-generalized solution.
+The code started out as an implementation of the worked example and ended up as
+a generalized solution.
 
-The resulting implementation is self-contained and relies on nothing but
-basic arithmetic.  Also note the absence of Python module imports.
+The resulting algorithm is extremely compact and efficient.
 
 ```python
 #!/usr/bin/env python
