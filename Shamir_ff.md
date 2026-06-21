@@ -1,4 +1,4 @@
-<img src="images/shamir/polynomial-deg3.png" alt="polynomial of degree 3" width="400"/>
+<img src="images/shamir/polynomial-deg3.png" alt="polynomial of degree 3" width="300"/>
 
 # Shamir’s Secret Sharing Scheme
 
