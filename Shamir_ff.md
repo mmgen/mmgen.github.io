@@ -4,10 +4,10 @@
 
 ### An ultra-compact implementation using finite field arithmetic
 
-This code is a modification of the 21-line [toy implementation][t], with the
-only significant difference being the replacement of arithmetic operations by
-their finite-field counterparts.  Addition, subtraction and multiplication are
-now modulo prime *P,* while division is replaced by multiplication by the
+[This code][f] is a modification of the 21-line [toy implementation][t], with
+the only significant difference being the replacement of arithmetic operations
+by their finite-field counterparts.  Addition, subtraction and multiplication
+are now modulo prime *P,* while division is replaced by multiplication by the
 modular inverse, computed via Euler’s method.
 
 Three values of *P* are provided, for 128-, 256- and 512-bit secrets.
@@ -134,4 +134,5 @@ if __name__ == '__main__':
 [p]: images/shamir/polynomial-deg3.png
 [e]: images/shamir/example.svg
 [w]: https://en.wikipedia.org/wiki/Shamir's_secret_sharing#Python_code
+[f]: code/shamir.py
 [t]: code/toy-shamir.py
