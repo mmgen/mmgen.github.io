@@ -1,3 +1,5 @@
+![polynomial of degree 3][p]
+
 # Shamir’s Secret Sharing Scheme
 
 ### An ultra-compact implementation using finite field arithmetic
@@ -129,7 +131,7 @@ if __name__ == '__main__':
 			print('Recovered secret:', res[0])
 ```
 
-[p]: images/shamir/parabolas.webp
+[p]: images/shamir/polynomial-deg3.png
 [e]: images/shamir/example.svg
 [w]: https://en.wikipedia.org/wiki/Shamir's_secret_sharing#Python_code
-[t]: code/shamir.py
+[t]: code/toy-shamir.py
