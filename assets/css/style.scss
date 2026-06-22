@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color: #373737; /** #727272 **/
+}
+
 section {
   width: 840px; /** 500px **/
   float: right;
