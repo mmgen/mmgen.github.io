@@ -7,10 +7,7 @@ body {
   font-weight: 500;
 }
 
-section {
-  width: 800px;
-  /** width:500px; **/
-  float: right;
-  padding-bottom: 50px;
-  position: fixed;
+.wrapper {
+  width:360px;
+  margin:0 auto;
 }
