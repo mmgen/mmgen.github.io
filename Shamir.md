@@ -73,6 +73,8 @@ if __name__ == '__main__':
 	print('Recovered secret:', res[0])
 ```
 
+[*Download code*][t]
+
 Output with worked example data:
 
 ```text
@@ -99,3 +101,4 @@ Recovered secret: 1432059
 
 [p]: images/shamir/parabolas.webp
 [e]: images/shamir/example.svg
+[t]: code/toy-shamir.py
