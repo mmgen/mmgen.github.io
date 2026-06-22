@@ -4,7 +4,7 @@
 
 [**Shamir’s Secret Sharing Scheme: an implementation using finite-field arithmetic**][sf] [[code][sf_c]]
 
-[x1]: XOR-Seed-Splitting:-Theory-and-Practice.md
+[x1]: XOR-Seed-Splitting.md
 [x2]: https://mmgen.org/project/mmgen/mmgen-wallet/wiki/XOR-Seed-Splitting:-Theory-and-Practice
 [ss]: Shamir.md
 [sf]: Shamir_ff.md
