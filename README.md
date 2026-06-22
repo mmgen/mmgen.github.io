@@ -1,3 +1,5 @@
+<img src="assets/logo.png" alt="MMGen Project Logo" width="200"/>
+
 [**XOR Seed Splitting: Theory and Practice**][x1] ([alternate link][x2])
 
 [**Shamir’s Secret Sharing Scheme in 21 lines of Python**][ss] [[code][ss_c]]
