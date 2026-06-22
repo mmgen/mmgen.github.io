@@ -3,9 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-weight: 500;
+}
+
 section {
-  width:900px;
+  width: 800px;
   /** width:500px; **/
-  float:right;
-  padding-bottom:50px;
+  float: right;
+  padding-bottom: 50px;
+  position: fixed;
 }
