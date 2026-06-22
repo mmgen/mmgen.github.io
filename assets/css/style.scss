@@ -3,31 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body {
-  font-weight: 700;
-}
-
 section {
   width:900px;
+  /** width:500px; **/
   float:right;
   padding-bottom:50px;
 }
-
-@media print, screen and (max-width: 1200px) {
-  body {
-    word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
-  }
-
-  header ul, header p.view {
-    position:static;
-  }
-
-  pre, code {
-    word-wrap:normal;
-  }
-}
-
