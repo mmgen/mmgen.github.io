@@ -4,18 +4,15 @@
 @import "{{ site.theme }}";
 
 body {
-  color: #373737; /** #727272 **/
+  color: #313131; // #727272
 }
 
 section {
-  width: 840px; /** 500px **/
-  float: right;
-  padding-bottom: 50px;
+  width: 840px; // 500px
 }
 
 .wrapper {
-  width:1200px; /** 860px **/
-  margin:0 auto;
+  width:1200px; // 860px
 }
 
 @media print, screen and (max-width: 1160px) {
@@ -27,5 +24,8 @@ section {
 @media print, screen and (max-width: 960px) {
   section {
     width: 100%;
+  }
+  header img {
+    width: 270px;
   }
 }
